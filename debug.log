@@ -1,0 +1,147 @@
+Error: connect ECONNREFUSED 127.0.0.1:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1136:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 443
+}
+1==8
+(node:29457) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'title' of undefined
+    at ProcessFeed (/home/kg/operations-robot-check-status-page/main.js:43:30)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:29457) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:29457) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+GitLab System Status
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5de928d30b67ca480b652158
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5ddfacf98ac2c634127194ca
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5ddc69a8de5e112b6b2f9be9
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dde93a5e6db9f2be86eaa3f
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5ddd6a1eaa6c632d52cf4fa3
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dd5326b218f3f15baf9882f
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dd26a0f2b5c6b0d56a27bb5
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dcc7ca497509f2c87fbba8a
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dc94cb8640fd3233ca35b58
+exists:1: -> https://status.io/pages/incident/5b36dc6502d06804c08349f7/5dc957b0640fd3233ca35b61
+2==8
+GitHub Status - Incident History
+G Suite Status Dashboard
+3==8
+exists:1: -> https://www.githubstatus.com/incidents/j6mybvf8qblx
+exists:1: -> https://www.githubstatus.com/incidents/39ynqr1xb3s0
+exists:1: -> https://www.githubstatus.com/incidents/4sh7f76nh5gq
+exists:1: -> https://www.githubstatus.com/incidents/w7wlzstc8wss
+exists:1: -> https://www.githubstatus.com/incidents/2fvfs7gwr96z
+exists:1: -> https://www.githubstatus.com/incidents/hknr57wmdj94
+exists:1: -> https://www.githubstatus.com/incidents/jnrk9tvtv38q
+exists:1: -> https://www.githubstatus.com/incidents/42hkbtl63nmn
+exists:1: -> https://www.githubstatus.com/incidents/fdl6khghfsp3
+exists:1: -> https://www.githubstatus.com/incidents/yck8ctxhxtwq
+exists:1: -> https://www.githubstatus.com/incidents/30mk8j8tvnmx
+exists:1: -> https://www.githubstatus.com/incidents/b54zv9nz8m01
+exists:1: -> https://www.githubstatus.com/incidents/rgy28jwprr1c
+exists:1: -> https://www.githubstatus.com/incidents/nt6n1hs8bk3v
+exists:1: -> https://www.githubstatus.com/incidents/8x69vj1xyp9v
+exists:1: -> https://www.githubstatus.com/incidents/tq7pm7mn9b1k
+exists:1: -> https://www.githubstatus.com/incidents/jzcjznsv759m
+exists:1: -> https://www.githubstatus.com/incidents/qjhqlf52nw6n
+exists:1: -> https://www.githubstatus.com/incidents/1q6t7dl05p50
+exists:1: -> https://www.githubstatus.com/incidents/kv978bsgr4kb
+exists:1: -> https://www.githubstatus.com/incidents/nf4gcjtcsqdb
+exists:1: -> https://www.githubstatus.com/incidents/6vyp7d36str6
+exists:1: -> https://www.githubstatus.com/incidents/chq6jdw9x8t5
+exists:1: -> https://www.githubstatus.com/incidents/mxz5gytqwrl5
+exists:1: -> https://www.githubstatus.com/incidents/zzm4nczlpjyy
+4==8
+Cloudflare Status - Incident History
+mailgun Status - Incident History
+exists:1: -> https://www.cloudflarestatus.com/incidents/ns5j16dq0ntt
+exists:1: -> https://status.mailgun.com/incidents/9n18fcs41zy3
+exists:1: -> https://www.cloudflarestatus.com/incidents/w2dcvjq8wtbw
+exists:1: -> https://status.mailgun.com/incidents/y5p5k9gc6zzp
+exists:1: -> https://www.cloudflarestatus.com/incidents/23zc2jl48wb1
+exists:1: -> https://status.mailgun.com/incidents/dn4m0y7dv8j9
+exists:1: -> https://www.cloudflarestatus.com/incidents/y5ljrzm9b07d
+exists:1: -> https://status.mailgun.com/incidents/21140mvbrtcp
+exists:1: -> https://www.cloudflarestatus.com/incidents/2b4ym8cj8r5b
+exists:1: -> https://status.mailgun.com/incidents/8zh25smg13pn
+exists:1: -> https://www.cloudflarestatus.com/incidents/yglkwd6d3rbz
+exists:1: -> https://status.mailgun.com/incidents/hdpnn86t5t4t
+exists:1: -> https://www.cloudflarestatus.com/incidents/6nnz1bvwj7xj
+exists:1: -> https://status.mailgun.com/incidents/2y8wzl1mz9yf
+exists:1: -> https://www.cloudflarestatus.com/incidents/q3z2mttz6hy4
+exists:1: -> https://status.mailgun.com/incidents/bhw331xd1g80
+exists:1: -> https://www.cloudflarestatus.com/incidents/2xz82p5228xy
+exists:1: -> https://status.mailgun.com/incidents/x74kdlshvflr
+BunnyCDN Status - Incident History
+exists:1: -> https://www.cloudflarestatus.com/incidents/pb31tl39hdz2
+exists:1: -> https://status.mailgun.com/incidents/zhqsz85cll4m
+exists:1: -> https://status.bunnycdn.com/incidents/jkjspy1p0pt8
+exists:1: -> https://www.cloudflarestatus.com/incidents/4m84l7bhds9t
+exists:1: -> https://status.mailgun.com/incidents/3cyqjg7fnynw
+exists:1: -> https://status.bunnycdn.com/incidents/n1mgx43xfn29
+exists:1: -> https://www.cloudflarestatus.com/incidents/d6164d2b9jnb
+exists:1: -> https://status.mailgun.com/incidents/z3fcbc8z0l1j
+exists:1: -> https://status.bunnycdn.com/incidents/dp5xf83j4tm6
+exists:1: -> https://www.cloudflarestatus.com/incidents/br557pyqdxd1
+exists:1: -> https://status.mailgun.com/incidents/gdbln8fbhmy4
+exists:1: -> https://status.bunnycdn.com/incidents/cqsnyw980rrd
+exists:1: -> https://www.cloudflarestatus.com/incidents/jmlxqzwqwm5f
+exists:1: -> https://status.mailgun.com/incidents/ddjgx2dx9bg1
+exists:1: -> https://status.bunnycdn.com/incidents/l9jjy24tysvw
+exists:1: -> https://www.cloudflarestatus.com/incidents/gtpgvnjcqdby
+exists:1: -> https://status.mailgun.com/incidents/b1cp1p7kdtlm
+exists:1: -> https://status.bunnycdn.com/incidents/tl4wq55pxk8l
+exists:1: -> https://www.cloudflarestatus.com/incidents/t12k0719631s
+exists:1: -> https://status.mailgun.com/incidents/1b30mss7d424
+exists:1: -> https://status.bunnycdn.com/incidents/h6wl1ypr99nx
+exists:1: -> https://www.cloudflarestatus.com/incidents/9g2c378s0nt2
+exists:1: -> https://status.mailgun.com/incidents/b2ld0zczvgvf
+exists:1: -> https://status.bunnycdn.com/incidents/vgpzhw80pdhm
+exists:1: -> https://www.cloudflarestatus.com/incidents/lhp8ck7xq6gs
+exists:1: -> https://status.mailgun.com/incidents/0bgvt9zfqh53
+exists:1: -> https://status.bunnycdn.com/incidents/dvvj31xtnnjl
+5==8
+exists:1: -> https://www.cloudflarestatus.com/incidents/w0nvqwk67nts
+exists:1: -> https://status.mailgun.com/incidents/bzb5mdjmc0hr
+exists:1: -> https://www.cloudflarestatus.com/incidents/v2dwpz6mk8t9
+exists:1: -> https://status.mailgun.com/incidents/4phc66lnrrc5
+exists:1: -> https://www.cloudflarestatus.com/incidents/s0l7tpzf650c
+exists:1: -> https://status.mailgun.com/incidents/rcsn0cnwvlct
+exists:1: -> https://www.cloudflarestatus.com/incidents/2q75xfmm50v4
+exists:1: -> https://status.mailgun.com/incidents/td9xtgkdktz1
+exists:1: -> https://www.cloudflarestatus.com/incidents/1l5xbwsf1ct1
+exists:1: -> https://status.mailgun.com/incidents/gzrpy76ftvdb
+exists:1: -> https://www.cloudflarestatus.com/incidents/682j2z7v2pb5
+exists:1: -> https://status.mailgun.com/incidents/5cz8kc4vzhlj
+exists:1: -> https://www.cloudflarestatus.com/incidents/1c970tnd616h
+6==8
+exists:1: -> https://status.mailgun.com/incidents/p2y9tvxzsyhf
+7==8
+DigitalOcean Status - Incident History
+exists:1: -> https://status.digitalocean.com/incidents/vgz86hm2lxgx
+exists:1: -> https://status.digitalocean.com/incidents/m1f204zrp44m
+exists:1: -> https://status.digitalocean.com/incidents/6bd00fmzn35j
+exists:1: -> https://status.digitalocean.com/incidents/0ftrmj4l3z1m
+exists:1: -> https://status.digitalocean.com/incidents/c9g9xlwqypmb
+exists:1: -> https://status.digitalocean.com/incidents/msxn2xjptkmn
+exists:1: -> https://status.digitalocean.com/incidents/q9gxrxhnbkks
+exists:1: -> https://status.digitalocean.com/incidents/kdtrtkmjm8md
+exists:1: -> https://status.digitalocean.com/incidents/828cmvbb74cm
+exists:1: -> https://status.digitalocean.com/incidents/qw7r991v4pj4
+exists:1: -> https://status.digitalocean.com/incidents/8f1dbjf3mmsz
+exists:1: -> https://status.digitalocean.com/incidents/xqf2lwwdxyvl
+exists:1: -> https://status.digitalocean.com/incidents/cgd4qh857xj0
+exists:1: -> https://status.digitalocean.com/incidents/p880nffz4x5n
+exists:1: -> https://status.digitalocean.com/incidents/758h161nr7n3
+exists:1: -> https://status.digitalocean.com/incidents/2zhlq4mjhnv7
+exists:1: -> https://status.digitalocean.com/incidents/t0zf5w0z9qvb
+exists:1: -> https://status.digitalocean.com/incidents/9g3gf43n5k5p
+exists:1: -> https://status.digitalocean.com/incidents/8rmjfqwb1j5f
+exists:1: -> https://status.digitalocean.com/incidents/2440tjssv61q
+exists:1: -> https://status.digitalocean.com/incidents/w4j2nj1trtsg
+exists:1: -> https://status.digitalocean.com/incidents/gj38s895n48k
+exists:1: -> https://status.digitalocean.com/incidents/hc7t78cryhph
+exists:1: -> https://status.digitalocean.com/incidents/tt9788g09p8s
+exists:1: -> https://status.digitalocean.com/incidents/ldq50pyhbn0s
+8==8

@@ -6,6 +6,7 @@ var feeds = [
     'https://status.digitalocean.com/history.rss',
     'https://status.bunnycdn.com/history.rss',
     'https://www.google.com/appsstatus/rss/en',
+    'https://status.discordapp.com/history.rss',
     'https://localhost/test.rss',
 ];
 
